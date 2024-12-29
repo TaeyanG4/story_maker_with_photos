@@ -44,7 +44,7 @@
   1. Colab에서 프로젝트 노트북 파일을 엽니다.
   2. API 키를 설정합니다.
   3. 셀을 순차적으로 실행합니다.
-
+![alt text](image.png)
 #### PC에서 실행 (VSCode 또는 Jupyter Notebook 사용)
 - PC에서 실행하려면 `requirements.txt` 파일을 이용하여 필요한 패키지를 설치해야 합니다.
 - 설치 방법:
@@ -52,15 +52,9 @@
   pip install -r requirements.txt
   ```
 - 이후, 주피터 노트북 또는 VSCode에서 프로젝트 파일을 실행하세요.
-
-1. 주피터 노트북을 열고 프로젝트 파일을 실행합니다.
-2. API 키를 설정합니다. 예시:
-
-```python
-openai_api_key = "본인의 OpenAI API 키를 여기에 입력하세요"
-```
-
-3. 각 셀을 순차적으로 실행하여 인터페이스를 실행합니다.
+   1. 주피터 노트북을 열고 프로젝트 파일을 실행합니다.
+   2. API 키를 설정합니다.
+   3. 각 셀을 순차적으로 실행하여 인터페이스를 실행합니다.
 
 ---
 
@@ -68,29 +62,37 @@ openai_api_key = "본인의 OpenAI API 키를 여기에 입력하세요"
 
 ### 1단계: 장르 선택
 - 제공된 장르 목록에서 원하는 장르를 선택하세요.
+![alt text](image_explain/image-1.png)
 
 ### 2단계: 설정 선택
 - 이야기의 배경이 될 설정을 선택하세요.
-
+![alt text](image_explain/image-2.png)
 ### 3단계: 그림체 선택
 - 생성될 이미지의 그림체 스타일을 선택하세요.
-
+![alt text](image_explain/image-3.png)
 ### 4단계: 캐릭터 선택
 - 주인공의 이름, 성별, 나이, 특성을 입력하거나 랜덤으로 생성하세요.
-
+![alt text](image_explain/image-4.png)
 ### 5단계: 스토리 아이디어 입력
 - 원하는 이야기 아이디어를 입력하거나 이 단계는 건너뛸 수 있습니다.
-
+![alt text](image_explain/image-5.png)
 ### 6단계: 이야기 길이 선택
 - 짧은 이야기, 일반 이야기 중 하나를 선택하세요.
-
+![alt text](image_explain/image-6.png)
 ### 7단계: 이미지 및 이야기 생성
 - 이미지를 업로드하여 AI가 이야기를 생성하고 새로운 이미지를 생성하도록 합니다.
 - 생성된 이야기나 이미지는 재생성할 수 있습니다.
-
+![alt text](image_explain/image-7.png)
+![alt text](image_explain/image-8.png)
+![alt text](image_explain/image-9.png)
+![alt text](image_explain/image-10.png)
+![alt text](image_explain/image-11.png)
+![alt text](image_explain/image-12.png)
+![alt text](image_explain/image-13.png)
 ### 8단계: 내보내기 및 공유
 - 생성된 이야기와 이미지를 PDF 또는 Word 파일로 내보내거나, 카카오톡 및 트위터를 통해 공유하세요.
-
+![alt text](image_explain/image-14.png)
+![alt text](image_explain/image-15.png)
 ---
 
 ## 기여

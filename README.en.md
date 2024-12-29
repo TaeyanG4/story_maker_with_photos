@@ -1,98 +1,109 @@
 # AI-Based Interactive Story Creation Platform
-[🇰🇷 한국어로 보기](README.md)
+[🇺🇸 View in English](README.en.md)
 
-This project is an AI-based interactive story creation platform that combines user photos and imagination to create personalized stories and visual representations.
+This project is an AI-based interactive story creation platform that combines user-uploaded photos and imagination to create personalized stories and visualize them with AI-generated images.
 
 ## Key Features
 1. **Photo Upload and Analysis**
-   - Analyze user photos using AI models to generate textual descriptions.
-   - Utilize these descriptions as prompts for story generation.
+   - Analyzes user-uploaded photos with AI to generate textual descriptions.
+   - Utilized as prompts for story creation.
 
-2. **Genre, Setting, Art Style, and Character Customization**
-   - Genres: Choose from fairy tales, fantasy, sci-fi, mystery, and more.
-   - Settings: Specify environments such as castles, forests, cities, or space.
-   - Art Styles: Select styles like cartoon, watercolor, pixel art, and more.
-   - Characters: Freely set names, traits, age, gender, and other details.
+2. **Genre, Background, Art Style, and Character Settings**
+   - Genres: Various options like fairy tale, fantasy, sci-fi, mystery.
+   - Backgrounds: Specify desired settings like castles, forests, cities, space, etc.
+   - Art Styles: Choose styles like cartoon, watercolor, pixel art, and more.
+   - Characters: Freely set name, traits, age, gender, etc.
 
 3. **Story Idea Input and Length Adjustment**
-   - Input your own ideas or provide specific settings.
-   - Choose between short stories and longer narratives.
+   - Provide story ideas or specific settings as inputs.
+   - Choose story length, from short tales to lengthy epics.
 
-4. **AI-Based Story and Image Generation**
-   - Automatically generate tailored stories using ChatGPT (LLM).
-   - Create story illustrations using tools like Stable Diffusion or DALL·E.
-   - Refine results with regeneration features.
+4. **AI-Powered Story and Image Generation**
+   - Generates customized stories using ChatGPT (LLM).
+   - Creates story illustrations with tools like Stable Diffusion or DALL·E.
+   - Regenerate feature ensures desired results.
 
-5. **Export and Share Results (In Progress)**
+5. **Sharing and Exporting Results (In Progress)**
    - Export completed stories and images as PDF or Word files.
-   - Share results via platforms like KakaoTalk or Twitter.
+   - Share via social media platforms like KakaoTalk, Twitter, etc.
 
 ---
 
 ## Installation and Execution
 
 ### Prerequisites
-- Requires Python 3.8 or later.
-- An OpenAI API key is necessary for operation.
+- Python 3.8 or higher must be installed.
+- An OpenAI API key is required and must be added to the source code.
 
 ### Execution
 
 #### Recommended: Use Google Colab
-- The program is best executed on Google Colab for ease of use.
-- To run on Colab:
+- It is recommended to run this program on Google Colab.
+- Colab provides a hassle-free environment for running the project.
+- To execute on Colab, follow these steps:
   1. Open the project notebook file in Colab.
-  2. Set up your API key.
+  2. Set the API key.
   3. Execute the cells sequentially.
+![alt text](image.png)
 
-#### Running Locally (VSCode or Jupyter Notebook)
-- To run locally, install required packages using the `requirements.txt` file:
+#### Run on PC (Using VSCode or Jupyter Notebook)
+- To run on a PC, install the required packages using the `requirements.txt` file.
+- Installation:
   ```bash
   pip install -r requirements.txt
   ```
-- Then, run the project in Jupyter Notebook or VSCode.
-
-1. Open the project file in Jupyter Notebook.
-2. Set your API key. Example:
-
-```python
-openai_api_key = "Enter your OpenAI API key here"
-```
-
-3. Execute the cells sequentially to launch the interface.
+- Then, run the project file on Jupyter Notebook or VSCode.
+   1. Open the project file in Jupyter Notebook.
+   2. Set the API key.
+   3. Execute the cells sequentially to launch the interface.
 
 ---
 
-## Usage
+## How to Use
 
 ### Step 1: Choose Genre
-- Select your preferred genre from the provided list.
+- Select your desired genre from the provided list.
+![alt text](image_explain/image-1.png)
 
-### Step 2: Choose Settings
-- Specify the background settings for the story.
+### Step 2: Select Settings
+- Choose the setting for your story's background.
+![alt text](image_explain/image-2.png)
 
-### Step 3: Select Art Style
-- Choose the visual style for generated images.
+### Step 3: Choose Art Style
+- Select the art style for the generated images.
+![alt text](image_explain/image-3.png)
 
-### Step 4: Customize Characters
-- Input or randomly generate the protagonist’s name, gender, age, and traits.
+### Step 4: Choose Characters
+- Input the protagonist’s name, gender, age, and traits or generate them randomly.
+![alt text](image_explain/image-4.png)
 
 ### Step 5: Input Story Idea
-- Provide a story idea or skip this step.
+- Enter your story idea or skip this step.
+![alt text](image_explain/image-5.png)
 
 ### Step 6: Choose Story Length
-- Select between short and standard story lengths.
+- Select between a short story or a full-length narrative.
+![alt text](image_explain/image-6.png)
 
-### Step 7: Generate Story and Images
-- Upload a photo to let the AI create a story and corresponding images.
-- Regenerate results as needed for better outcomes.
+### Step 7: Generate Images and Story
+- Upload photos to let the AI create stories and generate new images.
+- Regenerate stories or images if needed.
+![alt text](image_explain/image-7.png)
+![alt text](image_explain/image-8.png)
+![alt text](image_explain/image-9.png)
+![alt text](image_explain/image-10.png)
+![alt text](image_explain/image-11.png)
+![alt text](image_explain/image-12.png)
+![alt text](image_explain/image-13.png)
 
 ### Step 8: Export and Share
-- Export the generated story and images as PDF or Word files, or share via platforms like KakaoTalk or Twitter.
-
+- Export your generated stories and images as PDF or Word files, or share them via platforms like KakaoTalk and Twitter.
+![alt text](image_explain/image-14.png)
+![alt text](image_explain/image-15.png)
 ---
 
-## Contributing
-If you would like to contribute to this project, please submit bug reports and feedback via the Issues tab or send a Pull Request (PR).
+## Contribution
+If you wish to contribute to this project, please report bugs or provide feedback through the Issues tab or submit a Pull Request (PR).
 
 ---
 
