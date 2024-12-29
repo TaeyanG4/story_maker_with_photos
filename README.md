@@ -45,7 +45,8 @@
   2. API 키를 설정합니다.
   3. 셀을 순차적으로 실행합니다.
   4. URL 링크를 눌러서 실행합니다.
-  ![alt text](image_explain/image_link.png)
+  
+![alt text](image_explain/image_link.png)
 
 #### PC에서 실행 (VSCode 또는 Jupyter Notebook 사용)
 - PC에서 실행하려면 `requirements.txt` 파일을 이용하여 필요한 패키지를 설치해야 합니다.

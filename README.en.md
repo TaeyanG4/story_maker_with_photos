@@ -45,7 +45,8 @@ This project is an AI-based interactive story creation platform that combines us
   2. Set the API key.
   3. Execute the cells sequentially.
   4. Click the URL link to run it.
-  ![alt text](image_explain/image_link.png)
+
+![alt text](image_explain/image_link.png)
 
 #### Run on PC (Using VSCode or Jupyter Notebook)
 - To run on a PC, install the required packages using the `requirements.txt` file.
