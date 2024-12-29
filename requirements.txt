@@ -1,0 +1,11 @@
+requests
+zipfile36
+matplotlib
+gradio
+asyncio
+openai
+Pillow
+IPython
+fpdf
+python-docx
+httpx==0.27.2
