@@ -1,4 +1,5 @@
 # AI-Based Interactive Story Creation Platform
+[🇰🇷 한국어로 보기](README.md)
 
 This project is an AI-based interactive story creation platform that combines user photos and imagination to create personalized stories and visual representations.
 
