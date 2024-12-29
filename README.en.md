@@ -1,5 +1,5 @@
 # AI-Based Interactive Story Creation Platform
-[🇺🇸 View in English](README.en.md)
+[View in Korean](README.md)
 
 This project is an AI-based interactive story creation platform that combines user-uploaded photos and imagination to create personalized stories and visualize them with AI-generated images.
 
@@ -44,7 +44,7 @@ This project is an AI-based interactive story creation platform that combines us
   1. Open the project notebook file in Colab.
   2. Set the API key.
   3. Execute the cells sequentially.
-![alt text](image.png)
+![alt text](image_explain/image_link.png)
 
 #### Run on PC (Using VSCode or Jupyter Notebook)
 - To run on a PC, install the required packages using the `requirements.txt` file.
