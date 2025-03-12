@@ -2,7 +2,8 @@
 [View in English](README.en.md)
 
 본 프로젝트는 사용자가 사진과 상상력을 AI로 결합하여 개인화된 스토리를 창작하고, 이를 시각적 이미지로 재현하는 AI 기반의 인터랙티브 스토리 창작 플랫폼입니다.
-
+[레포트](https://drive.google.com/uc?id=1MN97nvxdc4gzdN486hdPiO25bEw07cPj)
+[샘플파일](https://drive.google.com/uc?id=1VEaM3Ltz5ZS87EbeFsgkDC6aM0s2iivy)
 ## 주요 기능
 1. **사진 업로드 및 분석**
    - 사용자 사진을 AI 모델로 분석하여 텍스트 묘사 생성.
